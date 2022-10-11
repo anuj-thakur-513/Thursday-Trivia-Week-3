@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Trivia3</string>
+
+    <string name="resName1">Sher-e-Punjab</string>
+    <string name="resName2">Haveli</string>
+    <string name="resName3">Cafe Delicacy</string>
+    <string name="resName4">Suraj</string>
+    <string name="resName5">Hamir</string>
+    <string name="resName6">Dr Foodie</string>
+    <string name="resName7">Food Delicacy</string>
+    <string name="resName8">Hot Spot</string>
+
+
+    <string name="resDes1">Korma, Biryani, Kebab</string>
+    <string name="resDes2">Chana masala, Fish curry, Kofta</string>
+    <string name="resDes3">Biryani, Kofta, Tandoori Chicken</string>
+    <string name="resDes4">Palak paneer, Paneer tikka, Panner Butter masala</string>
+    <string name="resDes5">Chicken, Naan, tandoori</string>
+    <string name="resDes6">tea, Coffee, Cold drinks</string>
+    <string name="resDes7">Chicken tikka, chicken kebab, Biryani</string>
+    <string name="resDes8">Egg Roll, Chicken Roll, Paneer Roll</string>
+
+    <string name="resRate1">4.9</string>
+    <string name="resRate2">5.0</string>
+    <string name="resRate3">4.2</string>
+    <string name="resRate4">3.1</string>
+    <string name="resRate5">2.8</string>
+    <string name="resRate6">3.4</string>
+    <string name="resRate7">3.0</string>
+    <string name="resRate8">4.3</string>
+
+    <string name="resPrice1">₹750 for one</string>
+    <string name="resPrice2">₹350 for one</string>
+    <string name="resPrice3">₹300 for one</string>
+    <string name="resPrice4">₹510 for one</string>
+    <string name="resPrice5">₹120 for one</string>
+    <string name="resPrice6">₹450 for one</string>
+    <string name="resPrice7">₹330 for one</string>
+    <string name="resPrice8">₹500 for one</string>
+</resources>
